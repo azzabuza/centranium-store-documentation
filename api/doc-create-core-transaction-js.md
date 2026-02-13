@@ -1,7 +1,3 @@
----
-
-# **Dokumentasi Kode: create-core-transaction.js**
-
 ## **1. Deskripsi Umum**
 File ini merupakan **handler API backend** yang berfungsi untuk **membuat transaksi pembayaran** melalui **Midtrans Core API**. File ini dirancang untuk dijalankan di lingkungan **Node.js** dan menangani permintaan HTTP POST dari frontend untuk memproses berbagai metode pembayaran.
 

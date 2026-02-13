@@ -1,5 +1,3 @@
-# **Dokumentasi Kode: meta.js**
-
 ## **1. Deskripsi Umum**
 File ini merupakan **handler API endpoint** yang berfungsi untuk **menghasilkan halaman HTML dengan Open Graph meta tags** untuk keperluan **social media sharing**. File ini mendeteksi apakah pengunjung adalah bot sosial media (Facebook, WhatsApp, Twitter, Telegram, Discord) atau manusia, lalu memberikan respons yang sesuai.
 

@@ -1,7 +1,3 @@
----
-
-# **Dokumentasi Kode: midtrans-notification.js**
-
 ## **1. Deskripsi Umum**
 File ini merupakan **handler webhook/notifikasi** yang berfungsi untuk **menerima dan memproses notifikasi status pembayaran** dari Midtrans. File ini bertugas memperbarui status pesanan di **Firebase Realtime Database** berdasarkan notifikasi yang dikirim oleh Midtrans.
 
